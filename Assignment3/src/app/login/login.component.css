@@ -1,0 +1,10 @@
+/* added styles for input and button */
+input {
+    background-color: bisque;
+    color: blue;
+}
+
+button {
+    background: -webkit-repeating-linear-gradient();
+    color: brown;
+}
